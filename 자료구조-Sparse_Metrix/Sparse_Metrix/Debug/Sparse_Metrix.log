@@ -1,0 +1,4 @@
+﻿  소스2.cpp
+d:\과제\sparse_metrix\sparse_metrix\소스2.cpp(26): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Sparse_Metrix.vcxproj -> D:\과제\Sparse_Metrix\Debug\Sparse_Metrix.exe
+  Sparse_Metrix.vcxproj -> D:\과제\Sparse_Metrix\Debug\Sparse_Metrix.pdb (Partial PDB)
